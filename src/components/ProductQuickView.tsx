@@ -32,7 +32,7 @@ type Tab = typeof TABS[number];
 
 const TAB_CONTENT: Record<Tab, string> = {
   "Description":
-    "Each Fashion World piece is handcrafted to order. We take your exact measurements during consultation to ensure a perfect, bespoke fit. Our master tailors use only premium fabrics sourced from global textile houses.",
+    "Each Smileyque piece is handcrafted to order. We take your exact measurements during consultation to ensure a perfect, bespoke fit. Our master tailors use only premium fabrics sourced from global textile houses.",
   "Details & Care":
     "• Dry clean only  •  Do not tumble dry  •  Store in a breathable garment bag  •  Iron on low heat with a pressing cloth  •  Fabric: Premium blend as described per style",
   "Shipping":

@@ -2,7 +2,7 @@ import { brand } from "@/config/brand";
 
 export default function FloatingWhatsApp() {
   const handleClick = () => {
-    const url = `https://wa.me/${brand.whatsappNumber}?text=${encodeURIComponent("Hello! I would like to inquire about your fashion collections at Fashion World.")}`;
+    const url = `https://wa.me/${brand.whatsappNumber}?text=${encodeURIComponent("Hello! I would like to inquire about your fashion collections at Smileyque.")}`;
     window.open(url, "_blank", "noopener,noreferrer");
   };
 

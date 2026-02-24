@@ -71,7 +71,7 @@ export default function Lookbook() {
         </h1>
         <div className="gold-divider" />
         <p className="font-inter text-sm text-background/60 max-w-sm mx-auto leading-relaxed">
-          An editorial journey through the world of Fashion World.
+          An editorial journey through the world of Smileyque.
         </p>
       </section>
 
@@ -95,7 +95,7 @@ export default function Lookbook() {
               {/* Hover overlay */}
               <div className="absolute inset-0 bg-brand-black/0 group-hover:bg-brand-black/40 transition-colors duration-400 flex items-end p-4">
                 <span className="font-playfair italic text-background text-sm opacity-0 group-hover:opacity-100 transition-opacity duration-300 translate-y-2 group-hover:translate-y-0 transform transition-transform">
-                  Fashion World Collection
+                  Smileyque Collection
                 </span>
               </div>
             </div>

@@ -20,7 +20,7 @@ interface CartContextValue {
 
 const CartContext = createContext<CartContextValue | null>(null);
 
-const CART_STORAGE_KEY = "fashionworld_cart";
+const CART_STORAGE_KEY = "smileyque_cart";
 
 export function CartProvider({ children }: { children: ReactNode }) {
   const [items, setItems] = useState<CartItem[]>(() => {
