@@ -10,7 +10,7 @@ export default function About() {
           Our Story
         </p>
         <h1 className="font-playfair text-5xl md:text-6xl font-semibold mb-4">
-          About Smileyque
+          About Fashion World
         </h1>
         <div className="gold-divider" />
       </section>
@@ -20,7 +20,7 @@ export default function About() {
         <div className="img-zoom order-2 lg:order-1">
           <img
             src={brand.aboutImage}
-            alt="Smileyque atelier"
+            alt="Fashion World atelier"
             className="w-full h-full object-cover min-h-[400px]"
           />
         </div>
@@ -33,10 +33,10 @@ export default function About() {
               Where Fashion Becomes a Personal Language
             </h2>
             <p className="font-inter text-sm text-muted-foreground leading-relaxed mb-4">
-              Smileyque was born from a simple belief: clothing is not merely fabric — it is identity, confidence, and artistry woven together. Every piece we create is a conversation between the designer's vision and the wearer's soul.
+              Fashion World was born from a simple belief: clothing is not merely fabric — it is identity, confidence, and artistry woven together. Every piece we create is a conversation between the designer's vision and the wearer's soul.
             </p>
             <p className="font-inter text-sm text-muted-foreground leading-relaxed">
-              Founded in Lagos, Nigeria, Smileyque has quietly become a destination for women and men who refuse to settle for ordinary. Our studio merges West African heritage with contemporary European silhouettes, producing collections that are global in sensibility yet deeply rooted in culture.
+              Founded in Lagos, Nigeria, Fashion World has quietly become a destination for women and men who refuse to settle for ordinary. Our studio merges West African heritage with contemporary European silhouettes, producing collections that are global in sensibility yet deeply rooted in culture.
             </p>
           </div>
         </div>
@@ -49,7 +49,7 @@ export default function About() {
         </blockquote>
         <div className="gold-divider mt-8" />
         <p className="font-inter text-xs text-background/40 tracking-widest uppercase mt-4">
-          The Smileyque Philosophy
+          The Fashion World Philosophy
         </p>
       </section>
 
@@ -64,7 +64,7 @@ export default function About() {
               Craftsmanship Is in Every Detail
             </h2>
             <p className="font-inter text-sm text-muted-foreground leading-relaxed mb-4">
-              The creative mind behind Smileyque brings over a decade of couture training, blending traditional hand-sewing techniques with modern pattern-making to produce pieces that feel as extraordinary as they look.
+              The creative mind behind Fashion World brings over a decade of couture training, blending traditional hand-sewing techniques with modern pattern-making to produce pieces that feel as extraordinary as they look.
             </p>
             <p className="font-inter text-sm text-muted-foreground leading-relaxed">
               Every client is seen as a canvas — no two orders are ever the same. From the first measurement to the final fitting, the process is intimate, precise, and always personal.
@@ -74,7 +74,7 @@ export default function About() {
         <div className="img-zoom">
           <img
             src={brand.designerImage}
-            alt="Smileyque designer"
+            alt="Fashion World designer"
             className="w-full h-full object-cover min-h-[400px]"
           />
         </div>

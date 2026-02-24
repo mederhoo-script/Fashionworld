@@ -1,5 +1,5 @@
 /**
- * SMILEYQUE BRAND CONFIGURATION
+ * FASHION WORLD BRAND CONFIGURATION
  * ==============================
  * To duplicate this website for another fashion brand, edit ONLY this file:
  * - brandName: The brand/label name shown in the navbar and footer
@@ -14,15 +14,15 @@
 
 export const brand = {
   // --- BRAND IDENTITY ---
-  brandName: "Smileyque",
+  brandName: "Fashion World",
   logo: "/images/smileyque_logo.png",
   tagline: "Wear Your Story",
   subTagline: "Bespoke luxury fashion crafted for the extraordinary woman and man",
 
   // --- CONTACT & ORDERING ---
   // WhatsApp number — international format, no + or spaces
-  whatsappNumber: "2348145968490",
-  phone: "+234 814 596 8490",
+  whatsappNumber: "2348034295030",
+  phone: "+234 803 429 5030",
   location: "Bodlink-MTN Partner, Henry T Bus Stop, Odo ona elewe, 25 Adifala St, lbadanLayi Ayanniyi Street, opposite niyi ishola & co, off MKO Abiola Way, New Gra, Ibadan 200273, Oyo, Nigeria.",
   email: "hello@smileyque.com",
 
@@ -40,12 +40,12 @@ export const brand = {
     "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=900&q=80",
 
   // --- SOCIAL LINKS (optional) ---
-  instagram: "https://instagram.com/smileyque",
-  facebook: "https://facebook.com/smileyque",
+  instagram: "https://instagram.com/fashionworld",
+  facebook: "https://facebook.com/fashionworld",
 
   // --- WHATSAPP MESSAGE TEMPLATE ---
   whatsappGreeting:
-    "Hello, I would like to order the following items from Smileyque:",
+    "Hello, I would like to order the following items from Fashion World:",
   whatsappClosing:
     "Please assist me with measurement and delivery details. Thank you.",
 } as const;

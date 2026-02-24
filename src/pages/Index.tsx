@@ -171,7 +171,7 @@ export default function Index() {
       name: "Adaeze Okonkwo",
       role: "Lagos, Nigeria",
       rating: 5,
-      quote: "Smileyque transformed my wedding vision into reality. Every stitch was perfection — I felt like royalty walking down the aisle.",
+      quote: "Fashion World transformed my wedding vision into reality. Every stitch was perfection — I felt like royalty walking down the aisle.",
     },
     {
       avatar: "/aurore/aurore-tt-b.jpg",
@@ -205,7 +205,7 @@ export default function Index() {
     {
       img: "/aurore/aurore-s9-img-c.jpg",
       date: "May 10, 2025",
-      title: "The Art of Bespoke: What Goes Into a Smileyque Creation",
+      title: "The Art of Bespoke: What Goes Into a Fashion World Creation",
       excerpt: "Behind every piece lies a process of careful consultation, measurement, and craftsmanship. We lift the curtain.",
     },
   ];
@@ -484,7 +484,7 @@ export default function Index() {
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-10">
             <p className="font-inter text-xs tracking-[0.4em] uppercase text-primary mb-2">Follow Us</p>
-            <h2 className="font-playfair text-4xl md:text-5xl font-semibold">@smileyque</h2>
+            <h2 className="font-playfair text-4xl md:text-5xl font-semibold">@fashionworld</h2>
             <div className="gold-divider" />
             <p className="font-inter text-sm text-muted-foreground">Follow us on Instagram for daily style inspiration</p>
           </div>
@@ -492,12 +492,12 @@ export default function Index() {
             {instaPhotos.map((img, i) => (
               <a
                 key={i}
-                href={`https://instagram.com/smileyque`}
+                href={`https://instagram.com/fashionworld`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="aspect-square overflow-hidden group img-zoom block"
               >
-                <img src={img} alt={`@smileyque post ${i + 1}`} className="w-full h-full object-cover" loading="lazy" />
+                <img src={img} alt={`@fashionworld post ${i + 1}`} className="w-full h-full object-cover" loading="lazy" />
               </a>
             ))}
           </div>
