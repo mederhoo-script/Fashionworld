@@ -24,7 +24,7 @@ export const brand = {
   whatsappNumber: "2348034295030",
   phone: "+234 803 429 5030",
   location: "Bodlink-MTN Partner, Henry T Bus Stop, Odo ona elewe, 25 Adifala St, lbadanLayi Ayanniyi Street, opposite niyi ishola & co, off MKO Abiola Way, New Gra, Ibadan 200273, Oyo, Nigeria.",
-  email: "hello@smileyque.com",
+  email: "mederhoo@gmail.com",
 
   // --- HERO IMAGES ---
   // Swap these with your actual model/editorial photographs
